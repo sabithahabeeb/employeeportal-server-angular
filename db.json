@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "sabitha",
+      "email": "sabithahabeeb.sabi@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "3",
+      "name": "Haya Fathima",
+      "email": "haya@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Hafiz Muhammed",
+      "email": "hafiz@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "5",
+      "name": "HAbeeb",
+      "email": "Habeeb@gmail.com",
+      "active": "0"
+    }
+  ]
+}
