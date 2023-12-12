@@ -11,7 +11,7 @@
       "id": "2",
       "name": "sabitha",
       "email": "sabithahabeeb.sabi@gmail.com",
-      "active": "1"
+      "active": "0"
     },
     {
       "id": "3",
@@ -20,16 +20,34 @@
       "active": "1"
     },
     {
-      "id": "4",
-      "name": "Hafiz Muhammed",
-      "email": "hafiz@gmail.com",
-      "active": "1"
-    },
-    {
       "id": "5",
       "name": "HAbeeb",
       "email": "Habeeb@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "4",
+      "name": "Ayrin Mariyam",
+      "email": "ayrin@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "6",
+      "name": "Devananda",
+      "email": "deva@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "7",
+      "name": "Keerthi Presad",
+      "email": "keerthi@gmail.com",
       "active": "0"
+    },
+    {
+      "id": "8",
+      "name": "Safrin Mariyam",
+      "email": "safrin@gmail.com",
+      "active": "1"
     }
   ]
 }
